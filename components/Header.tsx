@@ -18,10 +18,6 @@ const Header: React.FC = () => {
         </a>
       </Link>
       <style jsx>{`
-        :root {
-          --geist-foreground: #111;
-        }
-
         .bold {
           font-weight: bold;
         }
